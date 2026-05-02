@@ -1,9 +1,0 @@
-## 📊 Google Sheets – Student Engagement Tracker
-
-- Built a centralized tracker to monitor student performance and engagement across batches  
-- Tracked key metrics: attendance %, penalties, academic performance, grievances, and project participation  
-- Implemented logic to auto-flag “at-risk” students based on performance and engagement signals  
-- Defined KPI monitoring with weekly (early warning) and monthly (outcome) reviews  
-- Structured accountability across stakeholders (Ops, Faculty, Program Leads)  
-
-**View Dashboard:** [Open Google Sheets Tracker](https://docs.google.com/spreadsheets/d/1WxXEW_TZh93PVBBU4nD8RdwOph5TTHYx0WYmKxD5PzQ/edit?gid=1359480577#gid=1359480577)
