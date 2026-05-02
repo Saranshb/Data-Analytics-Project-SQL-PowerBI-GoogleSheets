@@ -1,75 +1,83 @@
-# 📊 Power BI Data Analytics Project
+# 📊 Data Analytics Project (SQL + Power BI + Google Sheets)
 
 ## 📖 Overview
+This project focuses on solving business and operational problems using data across multiple tools.
 
-This project showcases multiple business-focused dashboards built using **Power BI** to analyze sales, financial performance, and customer behavior.
+It includes:
+- SQL for data processing and transformation  
+- Power BI for dashboarding and visualization  
+- Google Sheets for operational tracking and monitoring  
 
-The objective was to transform raw data into meaningful insights, track key performance indicators (KPIs), and support business decision-making across different scenarios.
+The objective was to convert raw data into structured insights, track key performance indicators (KPIs), and support data-driven decision-making.
 
 ---
 
-## 📊 Dashboards Included
+## 📊 Power BI Dashboards
 
 ### 🔹 Superstore Sales Report
-
-* Processed raw data using **CSV → SQL → Power BI pipeline**
-* Cleaned data and created additional columns in SQL for analysis
-* Analyzed sales, profit, and order trends across regions and states
-* Identified top-performing products and categories
-* Compared performance across customer segments
+- Processed data using **CSV → SQL → Power BI pipeline**  
+- Cleaned data and created derived columns in SQL  
+- Analyzed sales, profit, and order trends across regions and states  
+- Identified top-performing products and categories  
+- Compared performance across customer segments  
 
 ---
 
 ### 🔹 Financial Performance Report
-
-* Tracked total sales, cost of goods sold (COGS), profit, and profit margin
-* Analyzed sales distribution by country and discount bands
-* Identified high-revenue products and segments
+- Tracked total sales, COGS, profit, and profit margin  
+- Analyzed sales distribution by country and discount bands  
+- Identified high-revenue products and segments  
 
 ---
 
 ### 🔹 Pizza Sales Report
-
-* Compared sales performance across branches and managers
-* Evaluated product-level sales (pizza types)
-* Tracked daily sales vs targets
+- Compared sales performance across branches and managers  
+- Evaluated product-level sales (pizza types)  
+- Tracked daily sales vs targets  
 
 ---
 
 ### 🔹 Deposits & Customer Analysis Report
+- Analyzed customer distribution and total balances  
+- Segmented customers by job classification, gender, and marital status  
+- Identified patterns in customer financial behavior  
 
-* Analyzed customer distribution and total account balances
-* Segmented customers by job classification, gender, and marital status
-* Identified patterns in customer financial behavior
+---
+
+## 📊 Google Sheets – Student Engagement & Operations Tracker
+
+- Built a centralized system to monitor student performance across multiple batches  
+- Tracked key metrics: attendance %, penalties, academic performance, grievances, and project participation  
+- Implemented logic to auto-flag **at-risk students** based on engagement and performance  
+- Defined KPI monitoring:
+  - Weekly → attendance trends, penalties, grievances  
+  - Monthly → performance trends, batch-level patterns  
+- Structured accountability across stakeholders (Ops, Faculty, Program Leads)  
+
+**View Dashboard:** [Open Google Sheets Tracker]([https://docs.google.com/your-link](https://docs.google.com/spreadsheets/d/1WxXEW_TZh93PVBBU4nD8RdwOph5TTHYx0WYmKxD5PzQ/edit?gid=1359480577#gid=1359480577))
 
 ---
 
 ## 🛠️ Tools & Techniques
-
-* Power BI
-* Data Modeling
-* DAX (Data Analysis Expressions)
-* KPI Design & Dashboard Development
-* SQL (used for data cleaning and transformation in Superstore dataset)
+- SQL (data cleaning, transformation, derived columns)  
+- Power BI (data modeling, dashboards, DAX)  
+- Google Sheets (KPI tracking, operational monitoring)  
 
 ---
 
 ## 🎯 Business Problems Solved
-
-* Identifying top-performing products and regions
-* Understanding revenue and profit distribution
-* Tracking KPIs and performance trends
-* Analyzing customer segmentation and behavior
-* Monitoring business performance across multiple datasets
+- Identifying high-performing vs low-performing products  
+- Understanding revenue and profit distribution  
+- Tracking KPIs and performance trends  
+- Detecting at-risk users/students early  
+- Improving visibility and accountability across operations  
 
 ---
 
 ## 🚀 Key Takeaway
+This project demonstrates how different tools can be used together to:
+- Analyze data  
+- Build dashboards  
+- Create operational tracking systems  
 
-This project demonstrates how data can be transformed into structured dashboards that help businesses track performance, identify patterns, and support decision-making.
-
----
-
-## 📌 Note
-
-The Superstore dashboard includes a data pipeline where CSV data was processed in SQL (cleaning and derived columns) before being visualized in Power BI.
+It highlights the transition from raw data to actionable insights and decision support.
