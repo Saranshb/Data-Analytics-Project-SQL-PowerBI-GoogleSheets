@@ -54,7 +54,7 @@ The objective was to convert raw data into structured insights, track key perfor
   - Monthly → performance trends, batch-level patterns  
 - Structured accountability across stakeholders (Ops, Faculty, Program Leads)  
 
-**View Dashboard:** [Open Google Sheets Tracker]([https://docs.google.com/your-link](https://docs.google.com/spreadsheets/d/1WxXEW_TZh93PVBBU4nD8RdwOph5TTHYx0WYmKxD5PzQ/edit?gid=1359480577#gid=1359480577))
+**View Dashboard:** [Open Google Sheets Tracker][https://docs.google.com/your-link](https://docs.google.com/spreadsheets/d/1WxXEW_TZh93PVBBU4nD8RdwOph5TTHYx0WYmKxD5PzQ/edit?gid=1359480577#gid=1359480577)
 
 ---
 
