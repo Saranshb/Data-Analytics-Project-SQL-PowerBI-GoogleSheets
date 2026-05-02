@@ -73,7 +73,3 @@ This project demonstrates how data can be transformed into structured dashboards
 ## 📌 Note
 
 The Superstore dashboard includes a data pipeline where CSV data was processed in SQL (cleaning and derived columns) before being visualized in Power BI.
-
-
-If you want next:
-👉 I can help you **add 1–2 strong “insights” lines (this makes your BI project stand out massively)**
